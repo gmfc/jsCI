@@ -11,7 +11,7 @@ describe('Teste HW', function() {
     
     it('Testa wh( GENTE! ),', function() {
         var resultado = appInst.hw("GENTE!");
-        assert.equal(resultado, "Olá GENTE!");
+        assert.equal(resultado, "Olá BATATA!");
     });
     
     it('Testa wh( mundo! ),', function() {
