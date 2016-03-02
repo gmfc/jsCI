@@ -1,0 +1,22 @@
+{
+  "name": "jsCI",
+  "version": "0.0.1",
+  "description": "TDD e CI",
+  "main": "app.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gmfcMack/jsCI.git"
+  },
+  "author": "gmfc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gmfcMack/jsCI/issues"
+  },
+  "homepage": "https://github.com/gmfcMack/jsCI",
+  "dependencies": {
+    "mocha": "^2.4.5"
+  }
+}
