@@ -1,5 +1,5 @@
 function App(){
-    this.text = "Olá ";
+    this.text = "Olá batata ";
 }
 
 module.exports = App;
