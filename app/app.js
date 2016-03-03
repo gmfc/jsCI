@@ -5,5 +5,5 @@ function App(){
 module.exports = App;
 
 App.prototype.hw = function(textToApp){
-    return this.text + textToApp + "BATATA";
+    return this.text + textToApp;
 };
